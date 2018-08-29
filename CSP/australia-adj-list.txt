@@ -1,0 +1,10 @@
+# Author Brian O'Neill
+# License: Public domain
+
+NSW,QLD,SA,VIC
+NT,QLD,SA,WA
+QLD,NSW,NT,SA
+SA,NSW,NT,QLD,VIC,WA
+TAS
+VIC,NSW,SA
+WA,NT,SA
